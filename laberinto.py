@@ -1,0 +1,1 @@
+def laberinto(dimension, muros):
